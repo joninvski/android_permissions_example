@@ -1,0 +1,2 @@
+include ':PermissionsLab'
+include ':DangerousApp'
